@@ -1,0 +1,12 @@
+/quem - Próximos a pagar.
+/pagou - Registra pagamentos.
+/pontos - Pontuação (sem zerados).
+/nomes - Todos os nomes.
+/zerados - Lista zerados.
+/todos - Lista todos os nomes (mesmo zerados).
+/pagamentos - Lista últimos pagamentos.
+/apague - Apague um pagamento.
+/mescle - Mescle dois nomes em um só.
+/inative - Inative uma pessoa.
+/inativos - Lista pessoas inativas.
+/reative - Reative uma pessoa.
